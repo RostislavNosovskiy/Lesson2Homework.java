@@ -1,0 +1,460 @@
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 76, 32, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 76, 13, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 76, 9]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 25, 12, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:32 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 56, 32, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 56, 13, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 56, 9, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [23, 12, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 45, 32, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 45, 13, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 45, 9, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 34, 32, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 34, 13, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 34, 9, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 32, 13, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 32, 9, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 25, 13, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 25, 9, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 23, 13, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 23, 9, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 13, 9, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [12, 9, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
+июн. 29, 2023 7:36:33 PM Buble_sort bubleSort
+INFO: [9, 12, 13, 23, 25, 32, 34, 45, 56, 76]
